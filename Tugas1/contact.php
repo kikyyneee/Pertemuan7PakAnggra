@@ -21,8 +21,8 @@
         <div class="container">
             <ul>
                 <li><a href=""><i class="fab fa-facebook"></i></a></li>
-                <li><a href=""><i class="fab fa-instagram"></i></a></li>
-                <li><a href=""><i class="fab fa-github"></i></a></li>
+                <li><a href="https://instagram.com/kikyykii"><i class="fab fa-instagram"></i></a></li>
+                <li><a href="https://github.com/kikyyneee"><i class="fab fa-github"></i></a></li>
             </ul>
         </div>
     </div>
