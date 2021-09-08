@@ -44,14 +44,25 @@
     </section>
 
 <!-- about/profile -->
-    <section class="about">
+<section class="about">
         <div class="container">
-            <h3>Profile</h3>
+            <div style="display:flex;">
+                <div style="flex:1; display:flex ; align-items: center; padding:30px;" >
+                    <center>
+                    <img src="https://lh3.googleusercontent.com/proxy/yY7Wg0ACEp8uF-vGjgXvC5Gc5Xo_dCmoGnlRW2TNOCvc8VfzbTv05GQ-TtvuM9imfrfU0E5zx4xUv0YLDsnQk27dsXiRbrVuVEs2CQ9wbxTRItUU " style="border-radius:10px;"> </center>
+
+                </div>
+                <div style="flex:1;">
+                <h3>Profile</h3>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem aspernatur facilis eligendi sed modi quisquam exercitationem? <strong>Autem nobis molestiae enim voluptatum id quis.</strong> 
             Quas laboriosam necessitatibus debitis ratione animi sed? Lorem ipsum dolor, sit amet consectetur adipisicing elit. <strong>Provident aspernatur saepe quaerat reprehenderit, eius, distinctio sunt non explicabo sed cumque consectetur</strong>
-            sapiente sit vel aut laudantium eligendi ipsa possimus pariatur?</p>
+            sapiente sit vel aut laudantium eligendi ipsa possimus pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda tempora mollitia, numquam ex magnam veritatis, reprehenderit repellat, tenetur a voluptates nihil ullam ea quasi 
+            voluptatum eveniet nemo praesentium omnis iste.</p>
+                </div>
+            </div>
         </div>
     </section>
+
 
 <!-- contact -->
     <section class="about">
