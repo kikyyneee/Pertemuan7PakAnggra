@@ -113,7 +113,7 @@ footer {
     text-align: center;
 }
 
-.bg-loader  {
+.bg-loader {
     background-color: #eee;
     position: fixed;
     top: 0;
@@ -165,4 +165,31 @@ footer {
 .box .col-4 h4 {
     margin: 20px;
     color: #148f77;
+}
+
+.container-about {
+    display: flex;
+    flex-wrap: flex;
+    margin-bottom: 50px;
+}
+
+.left-half {
+    float: left;
+    width: 30%;
+    height: 100%;
+}
+
+.right-half {
+    float: left;
+    width: 70%;
+    height: 100px;
+}
+
+
+.about-image {
+    width: 300px;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    margin-top: 100px;
 }
